@@ -1,0 +1,14 @@
+[
+  { "month": "Jan", "revenue": 125000, "orders": 850, "aov": 147.0 },
+  { "month": "Feb", "revenue": 142000, "orders": 920, "aov": 154.3 },
+  { "month": "Mar", "revenue": 168000, "orders": 1050, "aov": 160.0 },
+  { "month": "Apr", "revenue": 155000, "orders": 980, "aov": 158.1 },
+  { "month": "May", "revenue": 189000, "orders": 1200, "aov": 157.5 },
+  { "month": "Jun", "revenue": 210000, "orders": 1310, "aov": 160.3 },
+  { "month": "Jul", "revenue": 198000, "orders": 1250, "aov": 158.4 },
+  { "month": "Aug", "revenue": 225000, "orders": 1410, "aov": 159.5 },
+  { "month": "Sep", "revenue": 245000, "orders": 1520, "aov": 161.2 },
+  { "month": "Oct", "revenue": 280000, "orders": 1750, "aov": 160.0 },
+  { "month": "Nov", "revenue": 310000, "orders": 1900, "aov": 163.1 },
+  { "month": "Dec", "revenue": 350000, "orders": 2150, "aov": 162.8 }
+]

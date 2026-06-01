@@ -1,0 +1,5 @@
+[
+  { "segment": "VIP", "count": 320, "revenueContribution": 1420000, "percentage": 15.0 },
+  { "segment": "Regular", "count": 1280, "revenueContribution": 850000, "percentage": 60.0 },
+  { "segment": "At Risk", "count": 540, "revenueContribution": 210000, "percentage": 25.0 }
+]

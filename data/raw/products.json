@@ -1,0 +1,7 @@
+[
+  { "Category": "electronics", "Sales": 580000, "UnitsSold": 4120 },
+  { "Category": "fashion", "Sales": 410000, "UnitsSold": 6890 },
+  { "Category": "Home & Kitchen", "Sales": 290000, "UnitsSold": 3140 },
+  { "Category": "Beauty & Personal Care", "Sales": 180000, "UnitsSold": 2450 },
+  { "Category": "Sports & Outdoors", "Sales": 230000, "UnitsSold": 1980 }
+]

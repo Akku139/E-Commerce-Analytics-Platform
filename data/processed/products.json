@@ -1,0 +1,7 @@
+[
+  { "category": "Electronics", "sales": 580000, "unitsSold": 4120, "averagePrice": 140.78 },
+  { "category": "Fashion", "sales": 410000, "unitsSold": 6890, "averagePrice": 59.50 },
+  { "category": "Home & Kitchen", "sales": 290000, "unitsSold": 3140, "averagePrice": 92.35 },
+  { "category": "Sports & Outdoors", "sales": 230000, "unitsSold": 1980, "averagePrice": 116.16 },
+  { "category": "Beauty", "sales": 180000, "unitsSold": 2450, "averagePrice": 73.47 }
+]

@@ -1,0 +1,5 @@
+[
+  { "Segment": "vip", "Count": 320, "RevenueContribution": 1420000 },
+  { "Segment": "regular", "Count": 1280, "RevenueContribution": 850000 },
+  { "Segment": "at risk", "Count": 540, "RevenueContribution": 210000 }
+]
